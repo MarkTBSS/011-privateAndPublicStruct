@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/MarkTBSS/go-privateAndPublicStruct/models"
+	"github.com/MarkTBSS/011-privateAndPublicStruct/models"
 )
 
 type privateStructNameBook struct {
